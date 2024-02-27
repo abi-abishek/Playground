@@ -14,5 +14,10 @@ public class Operators {
         int num6 = 3;
         int mul = num5 * num6;
         System.out.println(mul);
+
+        int num7 = 6;
+        int num8 = 2;
+        int div = num7 / num8;
+        System.out.println(div);
     }
 }
