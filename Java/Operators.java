@@ -19,5 +19,10 @@ public class Operators {
         int num8 = 2;
         int div = num7 / num8;
         System.out.println(div);
+
+        int num9 = 7;
+        int num10 = 2;
+        int mod = num9 % num10;
+        System.out.println(mod);
     }
 }
