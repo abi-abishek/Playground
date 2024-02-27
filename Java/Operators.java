@@ -24,5 +24,12 @@ public class Operators {
         int num10 = 2;
         int mod = num9 % num10;
         System.out.println(mod);
+
+        int num11 = 7;
+        int num12 = 5;
+        boolean lt = num11 < num12;
+        System.out.println(lt);
+        boolean gt = num11 > num12;
+        System.out.println(gt);
     }
 }
