@@ -9,5 +9,10 @@ public class Operators {
         int num4 = 5;
         int diff = num3 - num4;
         System.out.println(diff);
+        
+        int num5 = 5;
+        int num6 = 3;
+        int mul = num5 * num6;
+        System.out.println(mul);
     }
 }
