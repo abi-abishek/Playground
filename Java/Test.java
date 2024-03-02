@@ -1,12 +1,14 @@
 public class Test {
     public static void main(String[] args) {
-        int x = 5;
-        x += 2*3;
-        System.out.println(x);
-
-        int a = 5;
-        int b = 7;
-        int c = a++ + ++b;
-        System.out.println(c);
+        int a= 2+3<<5/6;
+        int b=6>>4%4;
+        if(a>b)
+        {
+        System.out.println(a+6);
+        }
+        else
+        {
+        System.out.println(b-3);
+        }
     }
 }
