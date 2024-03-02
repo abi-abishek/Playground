@@ -23,6 +23,9 @@ public class switchcase {
             case 7:
             System.out.println("Saturday");
             break;
+            default:
+            System.out.println("Enter a valid input");
+            break;
         }
     }
 }
