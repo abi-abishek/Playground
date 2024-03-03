@@ -5,8 +5,8 @@ public class arr {
         for(String i : cars){
             System.out.println(i);
         }
-        for(int i = 0; i < numbers.length; i++){
-            System.out.println(numbers[i]);
+        for(int i : numbers){
+            System.out.println(i);
         }
     }
 }
